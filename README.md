@@ -1,2 +1,2 @@
-# Airbus_Ship_Detection
+# Ship_Detection
 Airbus Ship Detection using MaskRCNN
